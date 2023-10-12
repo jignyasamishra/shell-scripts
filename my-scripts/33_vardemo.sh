@@ -16,4 +16,69 @@ age=22
 
 
 
-echo "my name is $name and my age is $age"
+
+
+
+
+echo "my name is $name and my age is$age"
+
+
+name="jignyasa"
+echo "my name is $name"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo "my name is $name"
+
+
+
+
+
+
+
+
