@@ -1,3 +1,5 @@
+
+
 #!bin/bash
 #script to show how to use variables
 
